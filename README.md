@@ -1,4 +1,4 @@
 # Onepiece_crawl_master
-- Crawl OnePiece pictures using parser tools **regex** and **BeautifulSoup**
-- multithreading crawling
-- files stored in local files
+- 使用 **regex** 和 **BeautifulSoup**爬取海贼王图片
+- 多线程队列
+- 图片保存到本地文件夹
